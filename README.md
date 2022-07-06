@@ -1,7 +1,24 @@
-# French_Names_In_Music
+# French_Names_Music
 
-A document that contains all French Name in French Music.
+CSV file containing French songs with a first name in their title.
 
-Enjoy this document.
+## CSV information
 
-You can fork the project and add some data to the document
+ Title | Name | Singer | Time | Name_Gender | Singer_Gender |
+|-------|------|--------|------|-------------|---------------|
+| str   | str  | str    | time | str         | str           |
+
+Title : The name of the song
+Name : The first name we found
+Singer : The singer or singers
+Time : Song duration
+Name_Gender : If the name is Male or Female (Male/Female/All)
+Singer_Gender : If the singer is Male or Female (Male/Female/All)
+
+## Can I download it and use it
+
+YES, and share what you found and why you use it.
+
+## Can I participate ?
+
+Yes, you can participate to the project too.
