@@ -21,4 +21,4 @@ YES, and share what you found and why you use it.
 
 ## Can I participate ?
 
-Yes, you can participate to the project too.
+Yes, you can participate to the project too, fork the project or create a branch.
