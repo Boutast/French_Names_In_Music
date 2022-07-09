@@ -15,6 +15,10 @@ Time : Song duration
 Name_Gender : If the name is Male or Female (Male/Female/All)
 Singer_Gender : If the singer is Male or Female (Male/Female/All)
 
+## Special Thanks
+
+Cezarion - Who create a playlist with some songs containing firstname
+
 ## Can I download it and use it
 
 YES, and share what you found and why you use it.
