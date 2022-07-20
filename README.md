@@ -15,9 +15,18 @@ Time : Song duration
 Name_Gender : If the name is Male or Female (Male/Female/All)
 Singer_Gender : If the singer is Male or Female (Male/Female/All)
 
+## Git and Branch informations
+
+Each branch try to respect the git internationalization convention.
+Branches adding data should always begin with : "data/[Branch_name]"
+
+Merging will be approved 
+
 ## Special Thanks
 
 Cezarion - Who create a playlist with some songs containing firstname
+Chatrio21 - The guy spam a telegram group during two hours and add more than 61 songs
+Spsonic - Thanks for all title from Renaud and Superbus.
 
 ## Can I download it and use it
 
