@@ -25,6 +25,8 @@ Merging will be approved
 ## Special Thanks
 
 Cezarion - Who create a playlist with some songs containing firstname
+Chatrio21 - The guy spam a telegram group during two hours and add more than 61 songs
+Spsonic - Thanks for all title from Renaud and Superbus.
 
 ## Can I download it and use it
 
